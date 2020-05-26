@@ -1,0 +1,6 @@
+gender,time_in_hospital,num_lab_procedures,num_procedures,num_medications,number_outpatient,number_emergency,number_inpatient,number_diagnoses,max_glu_serum,A1Cresult,change,diabetesMed,comorbidade,num_alt_dosagem_med,num_med,race_AfricanAmerican,race_Asian,race_Caucasian,race_Hispanic,race_Other,age_[0-50),age_[50-60),age_[60-70),age_[70-80),age_[80-100),admission_type_id_Emergencia,admission_type_id_Outro,discharge_disposition_id_Casa,discharge_disposition_id_Outro,admission_source_id_Outro,admission_source_id_Recomendacao,admission_source_id_Sala_Emergencia
+0,3,60,0,19,0,0,0,9,-99,-99,1,1,1,1,1,0,0,1,0,0,1,0,0,0,0,1,0,1,0,0,0,1
+1,2,13,5,15,2,0,1,6,-99,-99,0,1,1,0,1,1,0,0,0,0,1,0,0,0,0,1,0,1,0,0,0,1
+0,2,41,1,17,0,0,0,7,-99,-99,1,1,3,1,1,0,0,1,0,0,1,0,0,0,0,1,0,1,0,0,0,1
+1,1,52,0,8,0,0,0,5,-99,-99,1,1,1,0,2,0,0,1,0,0,1,0,0,0,0,1,0,1,0,0,0,1
+0,6,39,6,16,0,0,0,9,-99,-99,0,1,3,0,1,0,0,1,0,0,0,1,0,0,0,0,1,1,0,1,0,0
